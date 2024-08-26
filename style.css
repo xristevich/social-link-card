@@ -1,0 +1,123 @@
+*,
+*::before,
+*::after {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+ font-family: "Inter", sans-serif;
+}
+
+body {
+ background-color: #141414
+}
+#container-social-links {
+ width: 310px;
+ height: 470px;
+ background-color: #1f1f1f;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 7rem;
+ border-radius: 12px;
+}
+
+.social-links-image {
+ display: flex;
+ align-items: center;
+ padding-left: 8rem;
+ padding-top: 2.3rem;
+}
+
+.social-links-image img {
+ width: 70px;
+ border-radius: 50px;
+ 
+}
+
+h1 {
+ align-items: center;
+ padding-left: 6rem;
+ padding-top: 1rem;
+ font-size: 1.2rem;
+ color: #ffffff;
+}
+
+h5 {
+ color: #c5f82a;
+ padding-left: 6.2rem;
+ padding-top: 0.6rem;
+ font-size: 0.7rem;
+ align-items: center;
+}
+
+p {
+ font-size: 14px;
+ color: #ffffff;
+align-items: center;
+padding-left: 2.5rem;
+padding-top: 1rem;
+}
+
+.text-number-1-github {
+background-color: #333333;
+color: #ffffff;
+width: 75%;
+height: 7%;
+align-items: center;
+border-radius: 5px;
+margin-left: 3rem;
+margin-top: 1rem;
+padding-left: 5.4rem;
+padding-top: 0.5rem;
+ }
+
+.text-number-2-frontend-mentor {
+  background-color: #333333;
+  color: #ffffff;
+  width: 75%;
+  height: 7%;
+  align-items: center;
+  border-radius: 5px;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  padding-left: 4rem;
+  padding-top: 0.4rem;
+ }
+
+ .text-number-3-linkedin {
+  background-color: #333333;
+  color: #ffffff;
+  width: 75%;
+  height: 7%;
+  align-items: center;
+  border-radius: 5px;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  padding-left: 5rem;
+  padding-top: 0.4rem;
+ }
+
+ .text-number-4-twitter {
+  background-color: #333333;
+  color: #ffffff;
+  width: 75%;
+  height: 7%;
+  align-items: center;
+  border-radius: 5px;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  padding-left: 5.3rem;
+  padding-top: 0.4rem;
+ }
+
+ .text-number-5-instagram {
+  background-color: #333333;
+  color: #ffffff;
+  width: 75%;
+  height: 7%;
+  align-items: center;
+  border-radius: 5px;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  padding-left: 5rem;
+  padding-top: 0.4rem;
+ }
